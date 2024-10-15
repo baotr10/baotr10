@@ -32,7 +32,7 @@
   <img src="https://img.icons8.com/color/48/bootstrap--v1.png"/>
   <img src="https://img.icons8.com/sf-black/64/api-settings.png"/>
   <img src="https://img.icons8.com/color/48/git.png"/>
-  <img src="https://img.icons8.com/ios-glyphs/30/github.png"/>
+  <img src="https://img.icons8.com/ios/50/github--v1.png"/>
   <img src="https://img.icons8.com/color/48/jira.png"/>
 </p>
 
