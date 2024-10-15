@@ -4,7 +4,7 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-> I'm a Software Engineering student in FPT Univerity([https://utop.io/](https://cantho.fpt.edu.vn/Default.aspx)).
+> I'm a Software Engineering student in FPT Univerity([https://cantho.fpt.edu.vn/Default.aspx]).
 
 <br />
 
